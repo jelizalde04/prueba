@@ -1,7 +1,5 @@
 public class Hola {
     public static void main(String[] args) {
-        System.out.println("Hola, Mundoooooooooooo!");
-        System.out.println("hola");
-        System.out.println("joha");
+        System.out.println("Prueba de concepto!");
     }
 }
